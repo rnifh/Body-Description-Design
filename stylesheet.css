@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Averia+Serif+Libre);
+
+main {
+  position: absolute;
+  width: 1280px;
+  height: 252px;
+  margin-top: 150px;
+  background-color: #F5E5D5;
+  color: #492B2D;
+  border-bottom: 3px solid #492B2D;
+}
+
+h1 {
+  font-family: 'averia serif libre';
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 36px;
+  margin-left: 391px;
+  margin-right: 391px;
+  text-align: center;
+  text-transform: uppercase;
+  display: flex;
+}
+
+h2 {
+  height: 130px;
+  width: 929px;
+  margin-left: 177px;
+  margin-right: 177px;
+  font-family: 'averia serif libre';
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 300;
+  text-align: center;
+  line-height: 17px;
+  text-align: center;
+}
+
